@@ -1,0 +1,7 @@
+color hozzáadása
+color módisítás
+color hozzáadása 2.
+color módosítás 2.
+color hozzáadása 3.
+color módosítás 3.
+Végleges color beállítása.
